@@ -1,0 +1,7 @@
+INSERT INTO clientes VALUES ('Pedro Henrique Costa', '456.789.012-34', 'Vida', '2025-04-05', 60000.00, 'Cartao de Credito', '2025-04-06', '2026-04-05', 'Ativo', NULL, 'Nao');
+INSERT INTO clientes VALUES ('Juliana Martins Dias', '567.890.123-45', 'Automovel', '2025-05-12', 35000.00, 'Debito em Conta', '2025-05-13', '2026-05-12', 'Ativo', NULL, 'Sim');
+INSERT INTO clientes VALUES ('Rafael Gomes Pereira', '678.901.234-56', 'Residencial', '2025-06-18', 25000.00, 'Boleto Bancario', '2025-06-19', '2026-06-18', 'Cancelado', '2025-04-18', 'Nao');
+INSERT INTO clientes VALUES ('Camila Rocha Silva', '789.012.345-67', 'Vida', '2025-07-23', 55000.00, 'Cartao de Credito', '2025-07-24', '2026-07-23', 'Em Sinistro', '2025-06-20', 'Sim');
+INSERT INTO clientes VALUES ('Lucas Almeida Torres', '890.123.456-78', 'Automovel', '2025-08-29', 32000.00, 'Debito em Conta', '2025-08-30', '2026-08-29', 'Ativo', NULL, 'Nao');
+INSERT INTO clientes VALUES ('Fernanda Lima Castro', '901.234.567-89', 'Residencial', '2025-09-03', 22000.00, 'Boleto Bancario', '2025-09-04', '2026-09-03', 'Ativo', NULL, 'Nao');
+INSERT INTO clientes VALUES ('Bruno Henrique Lopes', '012.345.678-90', 'Vida', '2025-10-10', 58000.00, 'Cartao de Credito', '2025-10-11', '2026-10-10', 'Cancelado', '2025-03-15', 'Nao');
