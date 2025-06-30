@@ -1,0 +1,10 @@
+INSERT INTO produtos VALUES(2001, 'Fone Bluetooth XYZ', 'Audio', 299.99, 100);
+INSERT INTO produtos VALUES(2002, 'Mouse Gamer Ultra', 'Perifericos', 199.90, 50);
+INSERT INTO produtos VALUES(2003, 'Carregador Portatil 10000mAh', 'Acessorios', 149.50, 80);
+INSERT INTO produtos VALUES(2004, 'Teclado Mecanico Lumina', 'Perifericos', 349.90, 40);
+INSERT INTO produtos VALUES(2005, 'Caixa de Som SmartSound', 'Audio', 499.00, 60);
+INSERT INTO produtos VALUES(2006, 'Webcam Full HD ProCam', 'Imagem', 289.90, 30);
+INSERT INTO produtos VALUES(2007, 'Hub USB-C 5 portas', 'Acessorios', 129.99, 70);
+INSERT INTO produtos VALUES(2008, 'Monitor 27" UltraWide', 'Monitores', 1399.90, 25);
+INSERT INTO produtos VALUES(2009, 'SSD 1TB NVMe', 'Armazenamento', 749.00, 90);
+INSERT INTO produtos VALUES(2010, 'Suporte Ergonomico Notebook', 'Acessorios', 119.90, 55);
